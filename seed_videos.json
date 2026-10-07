@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome-1",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "username": "@tokflow",
+    "caption": "Bienvenue sur TokFlow.",
+    "likeCount": 128
+  },
+  {
+    "id": "welcome-2",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "username": "@tokflow",
+    "caption": "Ton nouveau fil de vidéos courtes.",
+    "likeCount": 96
+  }
+]
